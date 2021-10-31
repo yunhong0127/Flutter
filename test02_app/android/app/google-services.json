@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84516796277",
+    "project_id": "fir-auth-a3ce4",
+    "storage_bucket": "fir-auth-a3ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84516796277:android:7838622024498413a3c53c",
+        "android_client_info": {
+          "package_name": "com.thethreefaces.test01_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84516796277-b32llk9a65ct18s2u1v09umchnbs2h9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNyEeKhnaQcwjT22h8svlOEgvIAWkkBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84516796277-b32llk9a65ct18s2u1v09umchnbs2h9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
